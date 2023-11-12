@@ -48,12 +48,12 @@ section > p{
     color: white;
 }
 .png#p01{
-    background-image: url('/imagens/background001.jpg');
+    background-image: url("/imagens/background001.jpg");
     background-position: right center;
 
 }
 .png#p02{
-    background-image: url('/imagens/background002.jpg');
+    background-image: url("/imagens/background002.jpg");
     background-position: right center;
 
 }
